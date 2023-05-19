@@ -1,0 +1,49 @@
+{
+"asset": {"version": "2.0"},
+"scene": 0,
+"scenes": [{"nodes": [0]}],
+"nodes": [
+	{"mesh": 0, "scale": [-1,1,1]}
+],
+"buffers": [
+	{"uri": "mesh.bin", "byteLength": 279808}
+],
+"bufferViews": [
+	{"buffer": 0, "byteOffset": 0, "byteLength": 30000, "target": 34963},
+	{"buffer": 0, "byteOffset": 30000, "byteLength": 90456, "byteStride": 24, "target": 34962},
+	{"buffer": 0, "byteOffset": 120464, "byteLength": 120608, "byteStride": 32, "target": 34962},
+	{"buffer": 0, "byteOffset": 241072, "byteLength": 38720},
+	{"buffer": 0, "byteOffset": 279792, "byteLength": 16}
+],
+"accessors": [
+	{"bufferView": 0, "byteOffset": 0, "componentType": 5123, "type": "SCALAR", "count": 15000},
+	{"bufferView": 1, "byteOffset": 0, "componentType": 5126, "type": "VEC3", "count": 3769, "min": [-9.7203422E-001, -2.2973199E-003, -1.5955286E-001], "max": [9.7203422E-001, 1.8019040E+000, 2.0577990E-001]},
+	{"bufferView": 1, "byteOffset": 12, "componentType": 5126, "type": "VEC3", "count": 3769},
+	{"bufferView": 2, "byteOffset": 0, "componentType": 5126, "type": "VEC2", "count": 3769},
+	{"bufferView": 2, "byteOffset": 0, "componentType": 5126, "type": "VEC4", "count": 3769},
+	{"bufferView": 2, "byteOffset": 16, "componentType": 5126, "type": "VEC4", "count": 3769}
+],
+"images": [
+	{"bufferView": 3, "extras": {"type": 5126, "internalformat": 34836, "width": 44, "height": 55}, "mimeType": "application/octet-stream"},
+	{"bufferView": 4, "extras": {"type": 5126, "internalformat": 34836, "width": 1, "height": 1}, "mimeType": "application/octet-stream"},
+	{"uri": "mainTex0.png"}
+],
+"materials": [
+	{"pbrMetallicRoughness": {"baseColorTexture": {"index": 2}}, "extras": {"boneTexture": {"index": 0}, "shapeTexture": {"index": 1}}}
+],
+"meshes": [{ "primitives": [{
+	"material": 0,
+	"mode": 4,
+	"indices": 0,
+	"attributes": {"POSITION": 1, "NORMAL": 2, "TEXCOORD_0": 3, "_TEXCOORD_0": 4, "_TEXCOORD_1": 5}
+}]}],
+"samplers":[
+	{"wrapS": 33071, "wrapT": 33071, "magFilter": 9728, "minFilter": 9728},
+	{"wrapS": 33071, "wrapT": 33071, "magFilter": 9729, "minFilter": 9729}
+],
+"textures": [
+	{"source": 0, "sampler": 0},
+	{"source": 1, "sampler": 1},
+	{"source": 2}
+]
+}
