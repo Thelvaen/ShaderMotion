@@ -1,30 +1,114 @@
 [
-    "Thelvaen",
-    "#Three",
-    "Hunter patpat",
-    "xCommando",
-    "theCyanEYED",
-    "Rajare",
-    "Alek-shan",
-    "Jackeals",
-    "_Thunder_",
-    "＾Anna＾",
-    "Wephyr",
-    "Harly-14000",
-    "Séfurie",
-    "Stelar24",
-    "Libitina_estia",
-    "matthieu72",
-    "M0rb1us",
-    "Résurrection",
-    "°Saku°",
-    "Fairplex",
-    "Sovah",
-    "Hedonae",
-    "Bigbrank",
-    "Synthdrom",
-    "Karet",
-    "OmeletDuFromage",
-    "Saohira",
-    "Evearia"
-  ]
+  {
+    "name": "Thelvaen",
+    "status": "owner"
+  },
+  {
+    "name": "#Three",
+    "status": "VIP"
+  },
+  {
+    "name": "Hunter patpat",
+    "status": "VIP"
+  },
+  {
+    "name": "xCommando",
+    "status": "VIP"
+  },
+  {
+    "name": "theCyanEYED",
+    "status": "VIP"
+  },
+  {
+    "name": "Rajare",
+    "status": "VIP"
+  },
+  {
+    "name": "Alek-shan",
+    "status": "VIP"
+  },
+  {
+    "name": "Jackeals",
+    "status": "VIP"
+  },
+  {
+    "name": "_Thunder_",
+    "status": "VIP"
+  },
+  {
+    "name": "＾Anna＾",
+    "status": "VIP"
+  },
+  {
+    "name": "Wephyr",
+    "status": "VIP"
+  },
+  {
+    "name": "Harly-14000",
+    "status": "VIP"
+  },
+  {
+    "name": "Séfurie",
+    "status": "VIP"
+  },
+  {
+    "name": "Stelar24",
+    "status": "VIP"
+  },
+  {
+    "name": "Libitina_estia",
+    "status": "VIP"
+  },
+  {
+    "name": "matthieu72",
+    "status": "VIP"
+  },
+  {
+    "name": "M0rb1us",
+    "status": "VIP"
+  },
+  {
+    "name": "Résurrection",
+    "status": "VIP"
+  },
+  {
+    "name": "°Saku°",
+    "status": "VIP"
+  },
+  {
+    "name": "Fairplex",
+    "status": "VIP"
+  },
+  {
+    "name": "Sovah",
+    "status": "VIP"
+  },
+  {
+    "name": "Hedonae",
+    "status": "VIP"
+  },
+  {
+    "name": "Bigbrank",
+    "status": "VIP"
+  },
+  {
+    "name": "Synthdrom",
+    "status": "VIP"
+  },
+  {
+    "name": "Karet",
+    "status": "VIP"
+  },
+  {
+    "name": "OmeletDuFromage",
+    "status": "VIP"
+  },
+  {
+    "name": "Saohira",
+    "status": "VIP"
+  },
+  {
+    "name": "Evearia",
+    "status": "VIP"
+  }
+]
