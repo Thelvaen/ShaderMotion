@@ -4,6 +4,10 @@
     "status": "owner"
   },
   {
+    "name": "[1] Local Player",
+    "status": "debug"
+  }
+  {
     "name": "#Three",
     "status": "VIP"
   },
