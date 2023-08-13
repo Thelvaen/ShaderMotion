@@ -23,7 +23,7 @@
         "Staff": "False",
         "Trainer": "False"
     },
-    "Local Player": {
+    "[1] Local Player": {
         "Backroom Access": "True",
         "CO Certified": "False",
         "CO Trainer": "False",
