@@ -22,5 +22,29 @@
         "SLRT Trainer": "False",
         "Staff": "False",
         "Trainer": "False"
+    },
+    "Local Player": {
+        "Backroom Access": "True",
+        "CO Certified": "False",
+        "CO Trainer": "False",
+        "Chatmod": "False",
+        "Chinese": "False",
+        "Community": "LPD",
+        "Dev": "True",
+        "Event Host": "False",
+        "Instigator": "False",
+        "Instigator Trainer": "False",
+        "Korean": "False",
+        "LMT Certified": "True",
+        "LMT Trainer": "False",
+        "Lead": "False",
+        "Media": "False",
+        "Programmer": "False",
+        "Rank": "LPD Senior Officer",
+        "Recruiter": "False",
+        "SLRT Certified": "False",
+        "SLRT Trainer": "False",
+        "Staff": "False",
+        "Trainer": "False"
     }
 }
