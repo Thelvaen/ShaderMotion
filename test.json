@@ -1,28 +1,4 @@
 {
-    "'Saya'": {
-        "Backroom Access": "True",
-        "CO Certified": "False",
-        "CO Trainer": "False",
-        "Chatmod": "False",
-        "Chinese": "False",
-        "Community": "LPD",
-        "Dev": "False",
-        "Event Host": "False",
-        "Instigator": "False",
-        "Instigator Trainer": "False",
-        "Korean": "False",
-        "LMT Certified": "True",
-        "LMT Trainer": "False",
-        "Lead": "False",
-        "Media": "False",
-        "Programmer": "False",
-        "Rank": "LPD Senior Officer",
-        "Recruiter": "False",
-        "SLRT Certified": "False",
-        "SLRT Trainer": "False",
-        "Staff": "False",
-        "Trainer": "False"
-    },
     "[1] Local Player": {
         "Backroom Access": "True",
         "CO Certified": "False",
@@ -47,7 +23,7 @@
         "Staff": "False",
         "Trainer": "False"
     },
-    "[2] Local Player": {
+    "[2] Remote Player": {
         "Backroom Access": "True",
         "CO Certified": "False",
         "CO Trainer": "False",
@@ -71,7 +47,7 @@
         "Staff": "False",
         "Trainer": "False"
     },
-    "[3] Local Player": {
+    "[3] Remote Player": {
         "Backroom Access": "True",
         "CO Certified": "False",
         "CO Trainer": "False",
@@ -95,7 +71,7 @@
         "Staff": "False",
         "Trainer": "False"
     },
-    "[4] Local Player": {
+    "[4] Remote Player": {
         "Backroom Access": "True",
         "CO Certified": "False",
         "CO Trainer": "False",
