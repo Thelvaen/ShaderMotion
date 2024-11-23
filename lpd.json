@@ -1,4 +1,28 @@
 {
+    "xCommando": {
+        "Backroom Access": "True",
+        "CO Certified": "True",
+        "CO Trainer": "False",
+        "Chatmod": "False",
+        "Chinese": "False",
+        "Community": "LPD",
+        "Dev": "False",
+        "Event Host": "True",
+        "Instigator": "False",
+        "Instigator Trainer": "False",
+        "Korean": "False",
+        "LMT Certified": "True",
+        "LMT Trainer": "False",
+        "Lead": "False",
+        "Media": "True",
+        "Programmer": "False",
+        "Rank": "LPD Corporal",
+        "Recruiter": "False",
+        "SLRT Certified": "True",
+        "SLRT Trainer": "False",
+        "Staff": "False",
+        "Trainer": "False"
+    },    
     "'Saya'": {
         "Backroom Access": "True",
         "CO Certified": "True",
